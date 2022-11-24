@@ -1,8 +1,9 @@
 # Disaster Response Pipeline Project
 
-# Description
+# Project overview
 
 This is my project in Udacity Data Science course. In this project, I will create a ML model to classify messages that are received from a disaster, and a webapp where we can enter a message and get back the classified results.
+
 
 # Here's the file structure of the project
 
@@ -34,6 +35,15 @@ This is my project in Udacity Data Science course. In this project, I will creat
 
 - README.md
 
+# Description
+
+App folder contains templates folder and "run.py" for the web app.
+
+Data folder contains the datasets and the scripts "process_data.py" for data cleaning and transfering.
+
+Models folder including "train_classifier.py" and "classifier.pkl" for the ML model. Because of the file size limit of GitHub, I cannot push the pkl file to the repo.
+
+README file
 
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.

@@ -18,14 +18,19 @@ This is my project in Udacity Data Science course. In this project, I will creat
 
 
 - data
-|- disaster_categories.csv  # data to process 
+
+|- disaster_categories.csv  # data to process
+
 |- disaster_messages.csv  # data to process
+
 |- process_data.py
+
 |- InsertDatabaseName.db   # database to save clean data to
 
 - models
+
 |- train_classifier.py
-|- classifier.pkl  # saved model 
+
 
 - README.md
 

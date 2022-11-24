@@ -26,7 +26,7 @@ This is my project in Udacity Data Science course. In this project, I will creat
 
 |- process_data.py
 
-|- InsertDatabaseName.db   # database to save clean data to
+|- DisasterResponse.db   # database to save clean data to
 
 - models
 

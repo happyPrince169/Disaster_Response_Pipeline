@@ -5,7 +5,7 @@
 This is my project in Udacity Data Science course. In this project, I will create a ML model to classify messages that are received from a disaster, and a webapp where we can enter a message and get back the classified results.
 
 
-# Here's the file structure of the project
+# File structure of the project
 
 - app
 
@@ -26,7 +26,7 @@ This is my project in Udacity Data Science course. In this project, I will creat
 
 |- process_data.py
 
-|- InsertDatabaseName.db   # database to save clean data to
+|- DisasterResponse.db   # database to save clean data to
 
 - models
 
